@@ -1,0 +1,6 @@
+name: G1axStats
+version: '${project.version}'
+main: dev.akatriggered.G1axStats
+api-version: '1.19'
+author: akatriggered
+description: High-performance player statistics plugin
